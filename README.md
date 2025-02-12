@@ -9,3 +9,8 @@
 
 
 
+<h2>Projeto Desktop</h2>
+<img src="https://github.com/danielcoosta1/petshop/blob/main/desktop.PNG?raw=true">
+
+<h3>Projeto Mobile</h3>
+<img src="https://github.com/danielcoosta1/petshop/blob/main/mabile.PNG?raw=true">
