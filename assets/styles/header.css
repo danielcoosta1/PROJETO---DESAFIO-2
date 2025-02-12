@@ -1,0 +1,40 @@
+header{
+    max-width: 75rem;
+    margin: 0 auto;
+
+}
+
+
+.nav__list{
+    width: 80%;
+    display: flex;
+    gap: 1.5em;
+    list-style-type: none;
+    padding: 1em 0 1em 1em;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.nav__link{
+    text-decoration: none;
+    color: var(--cor-nav-links);
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.nav__botao{
+    color: var(--cor-texto-login);
+    background-color: var(--cor-background-login);
+    border-radius: 50px;
+    padding: .3em .75em;
+    font-weight: 400;
+    
+}
+
+
+@media screen and (max-width:400px) {
+    .nav__list{
+        display: none;
+    }
+}
